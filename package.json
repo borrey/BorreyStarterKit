@@ -1,0 +1,15 @@
+{
+    "name": "borrey-cli",
+    "version": "1.0.0",
+    "engines": {
+	"node": ">=6.0"
+    },
+    "description": "command line tool for development",
+    "bin": {
+	"borrey" : "./lib/borrey.js"
+    },
+    "repository": "git@github.com:borrey/BorreyStarterKit.git",
+    "author": "borrey@gmail.com",
+    "license": "MIT",
+    "private": false
+}
